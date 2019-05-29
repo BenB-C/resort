@@ -21,6 +21,22 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #4D6EA0;
   color: white;
+}
+
+h1 {
+  color: #0B067B;
+  font-size: 60px;
+  font-family: cursive;
+}
+
+h2 {
+  color: #06547B;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+li {
+  color: #0459DA;
 }
